@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+E:\dotnet\DataStructure\Algorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+E:\dotnet\DataStructure\Algorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+E:\dotnet\DataStructure\Algorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.AssemblyReference.cache
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+E:\dotnet\DataStructure\Algorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache
