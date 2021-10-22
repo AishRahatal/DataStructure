@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\bin\Debug\netcoreapp3.1\PalindromeUsingQueue.exe
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\bin\Debug\netcoreapp3.1\PalindromeUsingQueue.deps.json
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\bin\Debug\netcoreapp3.1\PalindromeUsingQueue.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\bin\Debug\netcoreapp3.1\PalindromeUsingQueue.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\bin\Debug\netcoreapp3.1\PalindromeUsingQueue.dll
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\bin\Debug\netcoreapp3.1\PalindromeUsingQueue.pdb
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.csproj.AssemblyReference.cache
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.dll
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.pdb
+E:\dotnet\DataStructure\Algorithms\PalindromeUsingQueue\obj\Debug\netcoreapp3.1\PalindromeUsingQueue.genruntimeconfig.cache
