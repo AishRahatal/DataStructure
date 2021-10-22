@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.exe
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.deps.json
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.dll
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.pdb
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.csproj.AssemblyReference.cache
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.dll
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.pdb
+E:\dotnet\DataStructure\Algorithms\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.genruntimeconfig.cache
