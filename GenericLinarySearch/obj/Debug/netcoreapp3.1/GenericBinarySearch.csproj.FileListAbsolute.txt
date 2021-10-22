@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\bin\Debug\netcoreapp3.1\GenericBinarySearch.exe
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\bin\Debug\netcoreapp3.1\GenericBinarySearch.deps.json
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\bin\Debug\netcoreapp3.1\GenericBinarySearch.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\bin\Debug\netcoreapp3.1\GenericBinarySearch.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\bin\Debug\netcoreapp3.1\GenericBinarySearch.dll
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\bin\Debug\netcoreapp3.1\GenericBinarySearch.pdb
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.csproj.AssemblyReference.cache
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.dll
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.pdb
+E:\dotnet\DataStructure\Algorithms\GenericBinarySearch\obj\Debug\netcoreapp3.1\GenericBinarySearch.genruntimeconfig.cache
