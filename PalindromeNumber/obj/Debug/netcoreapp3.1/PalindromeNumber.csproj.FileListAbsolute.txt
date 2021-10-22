@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.exe
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.deps.json
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.dll
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.pdb
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.dll
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.pdb
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.genruntimeconfig.cache
+E:\dotnet\DataStructure\Algorithms\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.AssemblyReference.cache

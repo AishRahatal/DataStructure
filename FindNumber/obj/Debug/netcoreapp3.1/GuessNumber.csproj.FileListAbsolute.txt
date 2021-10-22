@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.exe
+E:\dotnet\DataStructure\Algorithms\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.deps.json
+E:\dotnet\DataStructure\Algorithms\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.dll
+E:\dotnet\DataStructure\Algorithms\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.pdb
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.dll
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.pdb
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.genruntimeconfig.cache
+E:\dotnet\DataStructure\Algorithms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.AssemblyReference.cache

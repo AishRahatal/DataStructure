@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.exe
+E:\dotnet\DataStructure\Algorithms\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.deps.json
+E:\dotnet\DataStructure\Algorithms\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.dll
+E:\dotnet\DataStructure\Algorithms\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.pdb
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.dll
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.pdb
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.genruntimeconfig.cache
+E:\dotnet\DataStructure\Algorithms\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.csproj.AssemblyReference.cache
