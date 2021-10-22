@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\bin\Debug\netcoreapp3.1\OrderedLinkedList.exe
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\bin\Debug\netcoreapp3.1\OrderedLinkedList.deps.json
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\bin\Debug\netcoreapp3.1\OrderedLinkedList.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\bin\Debug\netcoreapp3.1\OrderedLinkedList.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\bin\Debug\netcoreapp3.1\OrderedLinkedList.dll
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\bin\Debug\netcoreapp3.1\OrderedLinkedList.pdb
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.csproj.AssemblyReference.cache
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.dll
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.pdb
+E:\dotnet\DataStructure\Algorithms\OrderedLinkedList\obj\Debug\netcoreapp3.1\OrderedLinkedList.genruntimeconfig.cache
