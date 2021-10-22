@@ -1,0 +1,14 @@
+E:\dotnet\DataStructure\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+E:\dotnet\DataStructure\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+E:\dotnet\DataStructure\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+E:\dotnet\DataStructure\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+E:\dotnet\DataStructure\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+E:\dotnet\DataStructure\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\dotnet\DataStructure\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
